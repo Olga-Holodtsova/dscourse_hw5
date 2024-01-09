@@ -1,0 +1,1 @@
+INSERT INTO student (name, progress) VALUES ('Another Student', 80); 
